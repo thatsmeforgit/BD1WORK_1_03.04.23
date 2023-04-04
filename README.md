@@ -1,4 +1,4 @@
-# MODELO DE NEGÓCIO - ALGUEL DE ESPAÇOS COWORKING
+# MODELO DE NEGÓCIO - ALUGUEL DE ESPAÇOS COWORKING
 
 ### O que é Coworking?
 > **Coworking** é uma estação de trabalho de acordo com suas necessidades e recebe também ***serviços*** e ***facilidades*** como *recepção*, *internet*, *estrutura física*, como *auditório*, *sala de reuniões* e *estacionamento*. Tudo depende do que você precisa, há ***planos no mercado*** por ***hora***, por ***mês*** e até, ***anuais***.
